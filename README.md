@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Computer science grad student at the University of British Columbia (UBC)
+- Interested in impactful technology to make the world a better place
+
+
 <!--
 **jasonhall/jasonhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
