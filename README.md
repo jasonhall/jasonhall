@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Computer science grad student at the University of British Columbia (UBC)
+- University of British Columbia (UBC)
 - Interested in impactful technology to make the world a better place
 
 
